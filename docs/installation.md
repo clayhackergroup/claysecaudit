@@ -24,7 +24,7 @@ claysecaudit version
 
 ```bash
 # Clone repository
-git clone https://github.com/clay/clay-sec-audit.git
+git clone https://github.com/clay/claysecaudit.git
 cd clay-sec-audit
 
 # Install dependencies

@@ -331,4 +331,4 @@ Built with ❤️ by the Clay Security Team
 
 ---
 
-**Security Notice**: If you discover a security vulnerability, please report it responsibly to security@clay.com instead of using the issue tracker.
+**Security Notice**: If you discover a security vulnerability, please report it responsibly to developers.claygroup@gmail.com instead of using the issue tracker.

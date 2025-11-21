@@ -46,7 +46,7 @@ A comprehensive open-source Linux security auditor and auto-fixer that scans ser
 
 ```bash
 # Clone the repository
-git clone https://github.com/clay/clay-sec-audit.git
+git clone https://github.com/clay/claysecaudit.git
 cd clay-sec-audit
 
 # Install dependencies
